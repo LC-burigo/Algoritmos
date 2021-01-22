@@ -7,5 +7,5 @@ def Bubble_Sort(lst):
     return lst
 
 
-arr = [7, 7, 7, 7, 7, 1, 1, 9, 9, 0, 4, 4, 4, 5, 4, 5, 7, 1,]
+arr = [7, 7, 7, 7, 7, 1, 1, 9, 9, 0, 4, 4, 4, 5, 4, 5, 7, 1]
 print(Bubble_Sort(arr))
